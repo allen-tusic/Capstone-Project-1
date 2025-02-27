@@ -1,0 +1,42 @@
+body {
+    margin: 10px;
+    height:200vh;
+}
+
+.boxes {
+    border: 3px solid lightgrey;
+    overflow:hidden auto;
+}
+
+.box {
+    width: 50%;
+    height: 6rem;;
+}
+
+.summary {
+    background: white;
+    font-size:26px;
+}
+
+img {
+    height:27.5%;
+    width:50%;
+    position:absolute;
+    right: 12px;
+    top: 101.5px;
+}
+
+#ray {
+    position:relative;
+    top:0;
+    width:fit-content;
+}
+
+footer {
+    left: 0;
+    bottom: -120px;
+    width: 100%;
+    color: white;
+    text-align: left;
+    position: relative;
+  }
