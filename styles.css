@@ -1,6 +1,6 @@
 body {
     margin: 10px;
-    height:200vh;
+    height:10vh;
 }
 
 .boxes {
@@ -21,7 +21,7 @@ body {
 img {
     height:190px;
     width:285px;
-    position:relative;
+    position:absolute;
     right: 12px;
     top: 101.5px;
 }
