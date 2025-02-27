@@ -29,6 +29,7 @@ img {
 #ray {
     position:relative;
     top:0;
+    left:-10;
     width:fit-content;
 }
 
