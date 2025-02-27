@@ -29,8 +29,9 @@ img {
 #ray {
     position:relative;
     top:0;
-    left:-1000px;
+    left:0;
     width:fit-content;
+    align:center;
 }
 
 footer {
